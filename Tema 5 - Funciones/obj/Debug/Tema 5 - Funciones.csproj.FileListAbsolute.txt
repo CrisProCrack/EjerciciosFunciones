@@ -1,0 +1,6 @@
+C:\Users\crisc\RiderProjects\EjerciciosFunciones\Tema 5 - Funciones\obj\Debug\Tema 5 - Funciones.csproj.AssemblyReference.cache
+C:\Users\crisc\RiderProjects\EjerciciosFunciones\Tema 5 - Funciones\obj\Debug\Tema 5 - Funciones.csproj.CoreCompileInputs.cache
+C:\Users\crisc\RiderProjects\EjerciciosFunciones\Tema 5 - Funciones\bin\Debug\Tema_5___Funciones.exe
+C:\Users\crisc\RiderProjects\EjerciciosFunciones\Tema 5 - Funciones\bin\Debug\Tema_5___Funciones.pdb
+C:\Users\crisc\RiderProjects\EjerciciosFunciones\Tema 5 - Funciones\obj\Debug\Tema_5___Funciones.exe
+C:\Users\crisc\RiderProjects\EjerciciosFunciones\Tema 5 - Funciones\obj\Debug\Tema_5___Funciones.pdb
