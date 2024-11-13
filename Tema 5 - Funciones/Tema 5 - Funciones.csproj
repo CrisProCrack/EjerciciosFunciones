@@ -47,6 +47,16 @@
         <Compile Include="T5_003_Pares\T5_003_Pares.cs" />
         <Compile Include="T5_004_AreaCirculo\T5_004_AreaCirculo.cs" />
         <Compile Include="T5_005_Celsius_Fahrenheit\T5_005_Celsius_Fahrenheit.cs" />
+        <Compile Include="T5_006_SumaNPares\T5_006_SumaNPares.cs" />
+        <Compile Include="T5_007_Bisiestos\T5_007_Bisiestos.cs" />
+        <Compile Include="T5_008_Mayor3Numeros\T5_008_Mayor3Numeros.cs" />
+        <Compile Include="T5_009_contarvocales\T5_009_contarvocales.cs" />
+        <Compile Include="T5_010_MenuArreglo\T5_010_MenuArreglo.cs" />
+        <Compile Include="T5_011_CambiaNumero\T5_011_CambiaNumero.cs" />
+        <Compile Include="T5_012_AreaPerimetro\T5_012_AreaPerimetro.cs" />
+        <Compile Include="T5_013_ModicaArreglo\T5_013_ModicaArreglo.cs" />
+        <Compile Include="T5_014_ContarArreglos\T5_014_ContarArreglos.cs" />
+        <Compile Include="T5_015_CRUD_Arreglo\T5_015_CRUD_Arreglo.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
